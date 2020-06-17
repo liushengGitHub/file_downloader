@@ -1,0 +1,3342 @@
+{
+  "aid": 68998172,
+  "bvid": "BV1dJ411K7pJ",
+  "p": "",
+  "videoData": {
+    "bvid": "BV1dJ411K7pJ",
+    "aid": 68998172,
+    "videos": 190,
+    "tid": 39,
+    "tname": "演讲• 公开课",
+    "copyright": 1,
+    "pic": "http:\u002F\u002Fi0.hdslb.com\u002Fbfs\u002Farchive\u002F004ee61d088428fc97a9dcb4ccbddd1685abbf13.jpg",
+    "title": "Node+TS+Koa+vue 商城全栈（前后端）开发",
+    "pubdate": 1569439542,
+    "ctime": 1569439542,
+    "desc": "关注微信公众号【java干货】",
+    "state": 0,
+    "attribute": 16512,
+    "duration": 325538,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0
+    },
+    "owner": {
+      "mid": 244056686,
+      "name": "java干货",
+      "face": "http:\u002F\u002Fi1.hdslb.com\u002Fbfs\u002Fface\u002Fb1b7bdac9dff1c066a187856df544e5f93f8d784.jpg"
+    },
+    "stat": {
+      "aid": 68998172,
+      "view": "--",
+      "danmaku": "--",
+      "reply": 28,
+      "favorite": "--",
+      "coin": "--",
+      "share": "--",
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": "--",
+      "dislike": 0,
+      "evaluation": "",
+      "viewseo": 15266
+    },
+    "dynamic": "#视频教程##公开课##编程#",
+    "cid": 119383410,
+    "dimension": {
+      "width": 1920,
+      "height": 1076,
+      "rotate": 0
+    },
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 119383410,
+        "page": 1,
+        "from": "vupload",
+        "part": "1、Node、TS、Koa商城全栈开发远程课介绍视频_",
+        "duration": 455,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119384129,
+        "page": 2,
+        "from": "vupload",
+        "part": "2、- Symbol与作用域(1)_",
+        "duration": 1966,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119386959,
+        "page": 3,
+        "from": "vupload",
+        "part": "3、- 解构赋值与扩展运算符(1)_",
+        "duration": 1622,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119388247,
+        "page": 4,
+        "from": "vupload",
+        "part": "4、- 字符串、数字与对象扩展(1)_",
+        "duration": 1723,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119389576,
+        "page": 5,
+        "from": "vupload",
+        "part": "5、- 迭代(1)_",
+        "duration": 3252,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119391749,
+        "page": 6,
+        "from": "vupload",
+        "part": "6、- 函数扩展(1)_",
+        "duration": 3415,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119393791,
+        "page": 7,
+        "from": "vupload",
+        "part": "7、- 箭头函数(1)_",
+        "duration": 1702,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119394992,
+        "page": 8,
+        "from": "vupload",
+        "part": "8、- 集合-Set对象(1)_",
+        "duration": 4306,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119398140,
+        "page": 9,
+        "from": "vupload",
+        "part": "9、1-let和const_",
+        "duration": 779,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119398537,
+        "page": 10,
+        "from": "vupload",
+        "part": "10、2-变量的解构赋值_",
+        "duration": 762,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119400024,
+        "page": 11,
+        "from": "vupload",
+        "part": "11、3-数据结构Set_",
+        "duration": 570,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119400216,
+        "page": 12,
+        "from": "vupload",
+        "part": "12、4-数据结构Map_",
+        "duration": 759,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119400534,
+        "page": 13,
+        "from": "vupload",
+        "part": "13、5-iterator和for-of循环_",
+        "duration": 812,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119400757,
+        "page": 14,
+        "from": "vupload",
+        "part": "14、6-class的基本使用_",
+        "duration": 605,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119401338,
+        "page": 15,
+        "from": "vupload",
+        "part": "15、7-class的继承_",
+        "duration": 1213,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119401748,
+        "page": 16,
+        "from": "vupload",
+        "part": "16、8-Symbol数据类型_",
+        "duration": 909,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119402890,
+        "page": 17,
+        "from": "vupload",
+        "part": "17、9-内置对象的扩展",
+        "duration": 1085,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119403120,
+        "page": 18,
+        "from": "vupload",
+        "part": "18、10-函数的扩展_",
+        "duration": 933,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119403311,
+        "page": 19,
+        "from": "vupload",
+        "part": "19、11-异步操作之Promise_",
+        "duration": 1106,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119403557,
+        "page": 20,
+        "from": "vupload",
+        "part": "20、- Map对象(1)_",
+        "duration": 2185,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119404090,
+        "page": 21,
+        "from": "vupload",
+        "part": "21、- class类(1)_",
+        "duration": 1784,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119404478,
+        "page": 22,
+        "from": "vupload",
+        "part": "22、- Promise与Generator(1)_",
+        "duration": 4612,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119405321,
+        "page": 23,
+        "from": "vupload",
+        "part": "23、- 环境搭建(1)_",
+        "duration": 2874,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119405766,
+        "page": 24,
+        "from": "vupload",
+        "part": "24、- 事件循环-Event Loop(1)_",
+        "duration": 1799,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119406185,
+        "page": 25,
+        "from": "vupload",
+        "part": "25、- 微任务(1)_",
+        "duration": 1795,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119406494,
+        "page": 26,
+        "from": "vupload",
+        "part": "26、- 宏任务(1)_",
+        "duration": 1982,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119406791,
+        "page": 27,
+        "from": "vupload",
+        "part": "27、- 模块化(1)_",
+        "duration": 2483,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119407157,
+        "page": 28,
+        "from": "vupload",
+        "part": "28、- 模块对象module、export、require(1)_",
+        "duration": 1799,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119407560,
+        "page": 29,
+        "from": "vupload",
+        "part": "29、- 模块类型(1)_",
+        "duration": 1794,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119407764,
+        "page": 30,
+        "from": "vupload",
+        "part": "30、- 加载机制(1)",
+        "duration": 2069,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119408075,
+        "page": 31,
+        "from": "vupload",
+        "part": "31、- stream流(1)_",
+        "duration": 2736,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119408459,
+        "page": 32,
+        "from": "vupload",
+        "part": "32、- Buffer模块(1)_",
+        "duration": 1795,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119408759,
+        "page": 33,
+        "from": "vupload",
+        "part": "33、- Event模块(1)_",
+        "duration": 1792,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119415044,
+        "page": 34,
+        "from": "vupload",
+        "part": "34、- Process模块(1)_",
+        "duration": 2122,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119415461,
+        "page": 35,
+        "from": "vupload",
+        "part": "35、- FileSystem文件系统模块(1)_",
+        "duration": 2580,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119415978,
+        "page": 36,
+        "from": "vupload",
+        "part": "36、- 文件文件夹读取与写入(1)_",
+        "duration": 1797,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119416401,
+        "page": 37,
+        "from": "vupload",
+        "part": "37、- 文件文件夹监听(1)_",
+        "duration": 1772,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119416835,
+        "page": 38,
+        "from": "vupload",
+        "part": "38、- 案例：自动构建项目文件(1)_",
+        "duration": 2360,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119417649,
+        "page": 39,
+        "from": "vupload",
+        "part": "39、- NPM简介(1)_",
+        "duration": 2307,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119418464,
+        "page": 40,
+        "from": "vupload",
+        "part": "40、- NPM使用(1)_",
+        "duration": 1792,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119419128,
+        "page": 41,
+        "from": "vupload",
+        "part": "41、- package.json(1)_",
+        "duration": 1795,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119419792,
+        "page": 42,
+        "from": "vupload",
+        "part": "42、- 自定义模块发布(1)_",
+        "duration": 2804,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119420897,
+        "page": 43,
+        "from": "vupload",
+        "part": "43、1-初识NodeJs_",
+        "duration": 796,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119421097,
+        "page": 44,
+        "from": "vupload",
+        "part": "44、2-webstorm的使用_",
+        "duration": 530,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119421278,
+        "page": 45,
+        "from": "vupload",
+        "part": "45、3-Node和JS的异同_",
+        "duration": 448,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119421480,
+        "page": 46,
+        "from": "vupload",
+        "part": "46、4-模块的使用_",
+        "duration": 519,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119421651,
+        "page": 47,
+        "from": "vupload",
+        "part": "47、5-模块加载机制_",
+        "duration": 482,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119421803,
+        "page": 48,
+        "from": "vupload",
+        "part": "48、6-模块-module和exports_",
+        "duration": 803,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119422056,
+        "page": 49,
+        "from": "vupload",
+        "part": "49、7-global对象_",
+        "duration": 468,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119422965,
+        "page": 50,
+        "from": "vupload",
+        "part": "50、8-process对象_",
+        "duration": 803,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119423481,
+        "page": 51,
+        "from": "vupload",
+        "part": "51、9-process对象-输入输出流_",
+        "duration": 750,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119423830,
+        "page": 52,
+        "from": "vupload",
+        "part": "52、10-Buffer（一）_",
+        "duration": 824,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119424212,
+        "page": 53,
+        "from": "vupload",
+        "part": "53、11-Buffer（二）_",
+        "duration": 997,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119424686,
+        "page": 54,
+        "from": "vupload",
+        "part": "54、12-Buffer（三）_",
+        "duration": 681,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119425106,
+        "page": 55,
+        "from": "vupload",
+        "part": "55、13-FileSystem（一）_",
+        "duration": 644,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119426127,
+        "page": 56,
+        "from": "vupload",
+        "part": "56、14-FileSystem（二）_",
+        "duration": 370,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119426388,
+        "page": 57,
+        "from": "vupload",
+        "part": "57、15-FileSystem（三）_",
+        "duration": 564,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119426831,
+        "page": 58,
+        "from": "vupload",
+        "part": "58、16-FileSystem（四）_",
+        "duration": 670,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119427299,
+        "page": 59,
+        "from": "vupload",
+        "part": "59、17-FileSystem（五）_",
+        "duration": 914,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119428671,
+        "page": 60,
+        "from": "vupload",
+        "part": "60、18-FileSystem（六）",
+        "duration": 696,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119429139,
+        "page": 61,
+        "from": "vupload",
+        "part": "61、19-FileSystem（七）_",
+        "duration": 578,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119429537,
+        "page": 62,
+        "from": "vupload",
+        "part": "62、20-前端项目自动化-项目构建_",
+        "duration": 620,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119429973,
+        "page": 63,
+        "from": "vupload",
+        "part": "63、21-前端项目自动化-自动合并（一）_",
+        "duration": 605,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119551526,
+        "page": 64,
+        "from": "vupload",
+        "part": "64、22-前端项目自动化-自动合并（二）_",
+        "duration": 831,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119553054,
+        "page": 65,
+        "from": "vupload",
+        "part": "65、23-使用node进行web开发_",
+        "duration": 1230,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119554192,
+        "page": 66,
+        "from": "vupload",
+        "part": "66、24-request对象_",
+        "duration": 445,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119554773,
+        "page": 67,
+        "from": "vupload",
+        "part": "67、25-response对象_",
+        "duration": 1105,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119556017,
+        "page": 68,
+        "from": "vupload",
+        "part": "68、26-url处理_",
+        "duration": 859,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119557086,
+        "page": 69,
+        "from": "vupload",
+        "part": "69、27-使用fs模块实现行为表现分离_",
+        "duration": 634,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119558164,
+        "page": 70,
+        "from": "vupload",
+        "part": "70、28-使用querystring模块方法对get和post_",
+        "duration": 880,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119559193,
+        "page": 71,
+        "from": "vupload",
+        "part": "71、- 命令行工具（CLI）(1)_",
+        "duration": 2603,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119561025,
+        "page": 72,
+        "from": "vupload",
+        "part": "72、- commander模块(1)_",
+        "duration": 1799,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119564507,
+        "page": 73,
+        "from": "vupload",
+        "part": "73、- chalk样式控制模块(1)_",
+        "duration": 1796,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119566349,
+        "page": 74,
+        "from": "vupload",
+        "part": "74、- inquirer交互式命令行模块(1)_",
+        "duration": 2696,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119568189,
+        "page": 75,
+        "from": "vupload",
+        "part": "75、- 案例：自定义ls命令(1)_",
+        "duration": 1804,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119568930,
+        "page": 76,
+        "from": "vupload",
+        "part": "76、- 全局化命令行工具(1)_",
+        "duration": 1796,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119569783,
+        "page": 77,
+        "from": "vupload",
+        "part": "77、- GUI介绍(1)_",
+        "duration": 1714,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119572117,
+        "page": 78,
+        "from": "vupload",
+        "part": "78、- GUI入门(1)_",
+        "duration": 2718,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119573296,
+        "page": 79,
+        "from": "vupload",
+        "part": "79、- Electron框架介绍(1)_",
+        "duration": 2412,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119574029,
+        "page": 80,
+        "from": "vupload",
+        "part": "80、- 主进程与渲染进程(1)_",
+        "duration": 1533,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119574515,
+        "page": 81,
+        "from": "vupload",
+        "part": "81、- 窗口、菜单类与进程通信(1)_",
+        "duration": 1663,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119575094,
+        "page": 82,
+        "from": "vupload",
+        "part": "82、- 案例：todolist工具(1)_",
+        "duration": 2565,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119576272,
+        "page": 83,
+        "from": "vupload",
+        "part": "83、- 网络协议基础(1)_",
+        "duration": 2187,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119576758,
+        "page": 84,
+        "from": "vupload",
+        "part": "84、- udp协议(1)_",
+        "duration": 1727,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119577087,
+        "page": 85,
+        "from": "vupload",
+        "part": "85、- 文件流数据读取与发送(1)_",
+        "duration": 1745,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119577409,
+        "page": 86,
+        "from": "vupload",
+        "part": "86、- tcp协议(1)_",
+        "duration": 2563,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119577911,
+        "page": 87,
+        "from": "vupload",
+        "part": "87、- http协议(1)",
+        "duration": 2475,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119578300,
+        "page": 88,
+        "from": "vupload",
+        "part": "88、- http模块(1)",
+        "duration": 1616,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119578638,
+        "page": 89,
+        "from": "vupload",
+        "part": "89、- 请求头(1)_",
+        "duration": 1784,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119578860,
+        "page": 90,
+        "from": "vupload",
+        "part": "90、- 响应头(1)_",
+        "duration": 2365,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119579252,
+        "page": 91,
+        "from": "vupload",
+        "part": "91、- url简介(1)_",
+        "duration": 2624,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119579597,
+        "page": 92,
+        "from": "vupload",
+        "part": "92、- url模块(1)_",
+        "duration": 1795,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119579821,
+        "page": 93,
+        "from": "vupload",
+        "part": "93、- Routing路由与资源解析(1)_",
+        "duration": 1229,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119579994,
+        "page": 94,
+        "from": "vupload",
+        "part": "94、- 静态资源处理(1)_",
+        "duration": 2719,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119580371,
+        "page": 95,
+        "from": "vupload",
+        "part": "95、- Koa框架与核心对象(1)_",
+        "duration": 1955,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119580570,
+        "page": 96,
+        "from": "vupload",
+        "part": "96、- koa-static-cache静态资源模块(1)_",
+        "duration": 1797,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119580783,
+        "page": 97,
+        "from": "vupload",
+        "part": "97、- koa-router路由模块(1)_",
+        "duration": 1590,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119580930,
+        "page": 98,
+        "from": "vupload",
+        "part": "98、- koa-swig模板引擎与co模块(1)_",
+        "duration": 2408,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119581229,
+        "page": 99,
+        "from": "vupload",
+        "part": "99、- 案例：网络版todoList(1)_",
+        "duration": 2401,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119585965,
+        "page": 100,
+        "from": "vupload",
+        "part": "100、- 路由设计(1)_",
+        "duration": 1797,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119586598,
+        "page": 101,
+        "from": "vupload",
+        "part": "101、- 后端渲染(1)_",
+        "duration": 1791,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119589775,
+        "page": 102,
+        "from": "vupload",
+        "part": "102、- get与post(1)_",
+        "duration": 2364,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119591043,
+        "page": 103,
+        "from": "vupload",
+        "part": "103、- 案例：网络版todoList-前端渲染(1)_",
+        "duration": 2039,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119591526,
+        "page": 104,
+        "from": "vupload",
+        "part": "104、- 无刷新请求-ajax(1)",
+        "duration": 1796,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119591973,
+        "page": 105,
+        "from": "vupload",
+        "part": "105、- 接口设计(1)",
+        "duration": 1543,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119592513,
+        "page": 106,
+        "from": "vupload",
+        "part": "106、- 接口实现(1)",
+        "duration": 2338,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119593057,
+        "page": 107,
+        "from": "vupload",
+        "part": "107、- 数据库简介与安装(1)",
+        "duration": 2149,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119593675,
+        "page": 108,
+        "from": "vupload",
+        "part": "108、- 表与记录(1)_",
+        "duration": 1799,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119594165,
+        "page": 109,
+        "from": "vupload",
+        "part": "109、- mysql2模块(1)_",
+        "duration": 1583,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119594704,
+        "page": 110,
+        "from": "vupload",
+        "part": "110、- 连接与查询(1)_",
+        "duration": 2500,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119596031,
+        "page": 111,
+        "from": "vupload",
+        "part": "111、1-ES6声明变量的方式let、const_",
+        "duration": 932,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119597854,
+        "page": 112,
+        "from": "vupload",
+        "part": "112、2-ES6解构赋值和模板字符串",
+        "duration": 1019,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119598589,
+        "page": 113,
+        "from": "vupload",
+        "part": "113、3-ES6箭头函数和函数默认值",
+        "duration": 1481,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119600416,
+        "page": 114,
+        "from": "vupload",
+        "part": "114、4-扩展运算符和数组的方法map、filter",
+        "duration": 1537,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119704642,
+        "page": 115,
+        "from": "vupload",
+        "part": "115、5-Vue介绍和启动应用",
+        "duration": 1690,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119710518,
+        "page": 116,
+        "from": "vupload",
+        "part": "116、6-指令v-bind、v-on",
+        "duration": 1382,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119712034,
+        "page": 117,
+        "from": "vupload",
+        "part": "117、7-v-model双向数据绑定_",
+        "duration": 1022,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119731453,
+        "page": 118,
+        "from": "vupload",
+        "part": "118、8-列表渲染v-for_",
+        "duration": 1354,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119734351,
+        "page": 119,
+        "from": "vupload",
+        "part": "119、9-对象的响应数据变化_",
+        "duration": 1598,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119737532,
+        "page": 120,
+        "from": "vupload",
+        "part": "120、10-数组的响应数据变化_",
+        "duration": 1437,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119739305,
+        "page": 121,
+        "from": "vupload",
+        "part": "121、11-【实例】数据控制的选项卡切换_",
+        "duration": 1587,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119741259,
+        "page": 122,
+        "from": "vupload",
+        "part": "122、12-【实例】筛选商品_",
+        "duration": 1306,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119743084,
+        "page": 123,
+        "from": "vupload",
+        "part": "123、13-【实例】自由展开收缩的好友列表_",
+        "duration": 944,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119744472,
+        "page": 124,
+        "from": "vupload",
+        "part": "124、14-计算属性_",
+        "duration": 929,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119745621,
+        "page": 125,
+        "from": "vupload",
+        "part": "125、15-【实例】百度音乐_",
+        "duration": 1101,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119747380,
+        "page": 126,
+        "from": "vupload",
+        "part": "126、16-【实例】百度音乐---计算属性的使用_",
+        "duration": 882,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119749359,
+        "page": 127,
+        "from": "vupload",
+        "part": "127、17-Object.defineProperty数据描述",
+        "duration": 1364,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119750714,
+        "page": 128,
+        "from": "vupload",
+        "part": "128、18-Object.defineProperty实现响应数据绑定",
+        "duration": 1497,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119753312,
+        "page": 129,
+        "from": "vupload",
+        "part": "129、19-基础指令v-html、v-cloak_",
+        "duration": 878,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119753946,
+        "page": 130,
+        "from": "vupload",
+        "part": "130、20-事件修饰符使用_",
+        "duration": 885,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119754592,
+        "page": 131,
+        "from": "vupload",
+        "part": "131、- 案例：todoList数据库版(1)_",
+        "duration": 2099,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119755516,
+        "page": 132,
+        "from": "vupload",
+        "part": "132、- 数据获取(1)_",
+        "duration": 1797,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119756399,
+        "page": 133,
+        "from": "vupload",
+        "part": "133、- 数据添加(1)_",
+        "duration": 1585,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119757025,
+        "page": 134,
+        "from": "vupload",
+        "part": "134、- 分页原理与实现(1)_",
+        "duration": 2806,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119758034,
+        "page": 135,
+        "from": "vupload",
+        "part": "135、- Mysql使用总结(1)_",
+        "duration": 2497,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119758976,
+        "page": 136,
+        "from": "vupload",
+        "part": "136、- insert、update、delete(1)_",
+        "duration": 1796,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119759406,
+        "page": 137,
+        "from": "vupload",
+        "part": "137、- select与where、limi、order等(1)_",
+        "duration": 1796,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119759850,
+        "page": 138,
+        "from": "vupload",
+        "part": "138、- mysql函数(1)_",
+        "duration": 2679,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119760742,
+        "page": 139,
+        "from": "vupload",
+        "part": "139、- Sequelize框架(1)_",
+        "duration": 2006,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119761288,
+        "page": 140,
+        "from": "vupload",
+        "part": "140、- 模型定义与创建(1)_",
+        "duration": 1735,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119761935,
+        "page": 141,
+        "from": "vupload",
+        "part": "141、- 模型对象操作：添加、更新、删除(1)_",
+        "duration": 1608,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119762404,
+        "page": 142,
+        "from": "vupload",
+        "part": "142、- 模型类方法：查询(1)_",
+        "duration": 2351,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119763626,
+        "page": 143,
+        "from": "vupload",
+        "part": "143、- 数据库迁移：Migrations-cli(1)_",
+        "duration": 2053,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119764153,
+        "page": 144,
+        "from": "vupload",
+        "part": "144、- 迁移配置(1)_",
+        "duration": 1599,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119764612,
+        "page": 145,
+        "from": "vupload",
+        "part": "145、- 模型与迁移文件(1)_",
+        "duration": 1491,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119765520,
+        "page": 146,
+        "from": "vupload",
+        "part": "146、- 种子文件：seeders(1)_",
+        "duration": 2140,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119770618,
+        "page": 147,
+        "from": "vupload",
+        "part": "147、- 文件与数据库结构设计(1)",
+        "duration": 2013,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119770987,
+        "page": 148,
+        "from": "vupload",
+        "part": "148、- 用户注册于登录 - cookie(1)_",
+        "duration": 1795,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119771527,
+        "page": 149,
+        "from": "vupload",
+        "part": "149、- 内容发布与查看(1)_",
+        "duration": 1519,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119771883,
+        "page": 150,
+        "from": "vupload",
+        "part": "150、- 评论与点赞(1)_",
+        "duration": 2602,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119774291,
+        "page": 151,
+        "from": "vupload",
+        "part": "151、- 变量声明与类型系统、枚举、函数与泛型(1)_",
+        "duration": 2032,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119775003,
+        "page": 152,
+        "from": "vupload",
+        "part": "152、- 类、修饰符与存取器(1)_",
+        "duration": 1796,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119775773,
+        "page": 153,
+        "from": "vupload",
+        "part": "153、- extends（继承）与abstract（抽象类）(1)_",
+        "duration": 1248,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119776276,
+        "page": 154,
+        "from": "vupload",
+        "part": "154、- interface（接口）与implements（实现）(1)_",
+        "duration": 3115,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1076,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119777862,
+        "page": 155,
+        "from": "vupload",
+        "part": "155、- 继承的限制(1)_",
+        "duration": 1889,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119778644,
+        "page": 156,
+        "from": "vupload",
+        "part": "156、- decorator（装饰器）(1)_",
+        "duration": 1796,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119779436,
+        "page": 157,
+        "from": "vupload",
+        "part": "157、- 装饰器类、方法(1)_",
+        "duration": 1591,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119780293,
+        "page": 158,
+        "from": "vupload",
+        "part": "158、- 装饰器访问符、属性与参数(1)_",
+        "duration": 2485,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119783753,
+        "page": 159,
+        "from": "vupload",
+        "part": "159、- 模块化系统(1)_",
+        "duration": 1874,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119785036,
+        "page": 160,
+        "from": "vupload",
+        "part": "160、- 声明文件(1)_",
+        "duration": 1702,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119786111,
+        "page": 161,
+        "from": "vupload",
+        "part": "161、- 命名空间(1)_",
+        "duration": 1754,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119787133,
+        "page": 162,
+        "from": "vupload",
+        "part": "162、- 三斜线指令(1)_",
+        "duration": 3293,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119900894,
+        "page": 163,
+        "from": "vupload",
+        "part": "163、-项目初始化-需求分析、技术选型、接口设计(1)_",
+        "duration": 2073,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119903061,
+        "page": 164,
+        "from": "vupload",
+        "part": "164、- vue中的typescript模块(1)_",
+        "duration": 1797,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119905062,
+        "page": 165,
+        "from": "vupload",
+        "part": "165、- 后台管理权限控制(1)_",
+        "duration": 1703,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119908475,
+        "page": 166,
+        "from": "vupload",
+        "part": "166、- 后台管理与前台展示 - 分类(1)_",
+        "duration": 2407,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119914194,
+        "page": 167,
+        "from": "vupload",
+        "part": "167、- 前台用户注册与登录(1)_",
+        "duration": 1895,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119916916,
+        "page": 168,
+        "from": "vupload",
+        "part": "168、- 后台用户管理(1)_",
+        "duration": 1798,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119919146,
+        "page": 169,
+        "from": "vupload",
+        "part": "169、- 前台美食添加与展示(1)_",
+        "duration": 1375,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119921537,
+        "page": 170,
+        "from": "vupload",
+        "part": "170、- 后台美食管理(1)_",
+        "duration": 2233,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119924828,
+        "page": 171,
+        "from": "vupload",
+        "part": "171、- 项目编译打包(1)",
+        "duration": 1910,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119927230,
+        "page": 172,
+        "from": "vupload",
+        "part": "172、- 服务器与域名购买绑定(1)",
+        "duration": 1797,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119929371,
+        "page": 173,
+        "from": "vupload",
+        "part": "173、- 线上服务器环境搭建(1)",
+        "duration": 1555,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119931033,
+        "page": 174,
+        "from": "vupload",
+        "part": "174、- 同步代码、开通访问(1)",
+        "duration": 3117,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119934238,
+        "page": 175,
+        "from": "vupload",
+        "part": "175、- 点赞功能(1)",
+        "duration": 1868,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119936078,
+        "page": 176,
+        "from": "vupload",
+        "part": "176、- 点赞数据管理(1)",
+        "duration": 1799,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119937908,
+        "page": 177,
+        "from": "vupload",
+        "part": "177、- 评论功能(1)",
+        "duration": 1454,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119939716,
+        "page": 178,
+        "from": "vupload",
+        "part": "178、- 评论数据管理(1)",
+        "duration": 2911,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119942936,
+        "page": 179,
+        "from": "vupload",
+        "part": "179、- 个人中心(1)",
+        "duration": 1864,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119944298,
+        "page": 180,
+        "from": "vupload",
+        "part": "180、- 基本资料(1)",
+        "duration": 1795,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119945317,
+        "page": 181,
+        "from": "vupload",
+        "part": "181、- 密码修改(1)_",
+        "duration": 1560,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119946301,
+        "page": 182,
+        "from": "vupload",
+        "part": "182、- 收藏功能(1)_",
+        "duration": 2374,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119947715,
+        "page": 183,
+        "from": "vupload",
+        "part": "183、- 菜单功能介绍(1)_",
+        "duration": 1914,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119948552,
+        "page": 184,
+        "from": "vupload",
+        "part": "184、- 菜单功能设计(1)_",
+        "duration": 1708,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119949409,
+        "page": 185,
+        "from": "vupload",
+        "part": "185、- 菜单功能前台实现(1)_",
+        "duration": 1475,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119950138,
+        "page": 186,
+        "from": "vupload",
+        "part": "186、- 菜单后台管理(1)_",
+        "duration": 3040,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119951412,
+        "page": 187,
+        "from": "vupload",
+        "part": "187、- 用户动态介绍(1)_",
+        "duration": 1839,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119952231,
+        "page": 188,
+        "from": "vupload",
+        "part": "188、- 用户动态设计(1)_",
+        "duration": 1799,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119952715,
+        "page": 189,
+        "from": "vupload",
+        "part": "189、- 用户动态实现(1)_",
+        "duration": 1570,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 119953252,
+        "page": 190,
+        "from": "vupload",
+        "part": "190、- 精品推荐(1)_",
+        "duration": 3215,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        }
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "embedPlayer": "EmbedPlayer(\"player\", \"\u002F\u002Fs1.hdslb.com\u002Fbfs\u002Fstatic\u002Fplayer\u002Fmain\u002Fflash\u002Fplay.swf\", \"cid=119383410&aid=68998172&attribute=16512&bvid=BV1dJ411K7pJ&show_bv=1\")"
+  },
+  "upData": {
+    "mid": "244056686",
+    "name": "java干货",
+    "approve": false,
+    "sex": "保密",
+    "rank": "10000",
+    "face": "http:\u002F\u002Fi1.hdslb.com\u002Fbfs\u002Fface\u002Fb1b7bdac9dff1c066a187856df544e5f93f8d784.jpg",
+    "DisplayRank": "0",
+    "regtime": 0,
+    "spacesta": 0,
+    "birthday": "",
+    "place": "",
+    "description": "",
+    "article": 0,
+    "attentions": [],
+    "fans": 9363,
+    "friend": 5,
+    "attention": 5,
+    "sign": "关注微信公众号【java干货】资源失效+q群:758799436",
+    "level_info": {
+      "current_level": 4,
+      "current_min": 0,
+      "current_exp": 0,
+      "next_exp": 0
+    },
+    "pendant": {
+      "pid": 0,
+      "name": "",
+      "image": "",
+      "expire": 0
+    },
+    "nameplate": {
+      "nid": 0,
+      "name": "",
+      "image": "",
+      "image_small": "",
+      "level": "",
+      "condition": ""
+    },
+    "Official": {
+      "role": 0,
+      "title": "",
+      "desc": "",
+      "type": -1
+    },
+    "official_verify": {
+      "type": -1,
+      "desc": ""
+    },
+    "vip": {
+      "vipType": 2,
+      "dueRemark": "",
+      "accessStatus": 0,
+      "vipStatus": 1,
+      "vipStatusWarn": "",
+      "theme_type": 0
+    },
+    "archiveCount": 82
+  },
+  "tags": [
+    {
+      "tag_id": 13160,
+      "tag_name": "学习",
+      "cover": "",
+      "head_cover": "",
+      "content": "",
+      "short_content": "",
+      "type": 3,
+      "state": 0,
+      "ctime": 1436866637,
+      "count": {
+        "view": 0,
+        "use": 2232616,
+        "atten": 1176524
+      },
+      "is_atten": 0,
+      "likes": 0,
+      "hates": 0,
+      "attribute": 0,
+      "liked": 0,
+      "hated": 0,
+      "showDetail": false,
+      "showReport": false,
+      "timeOut": null
+    },
+    {
+      "tag_id": 28310,
+      "tag_name": "视频教程",
+      "cover": "",
+      "head_cover": "",
+      "content": "",
+      "short_content": "",
+      "type": 3,
+      "state": 0,
+      "ctime": 1436866637,
+      "count": {
+        "view": 0,
+        "use": 625085,
+        "atten": 48745
+      },
+      "is_atten": 0,
+      "likes": 0,
+      "hates": 0,
+      "attribute": 0,
+      "liked": 0,
+      "hated": 0,
+      "showDetail": false,
+      "showReport": false,
+      "timeOut": null
+    },
+    {
+      "tag_id": 31864,
+      "tag_name": "公开课",
+      "cover": "",
+      "head_cover": "",
+      "content": "",
+      "short_content": "",
+      "type": 2,
+      "state": 0,
+      "ctime": 1436866637,
+      "count": {
+        "view": 0,
+        "use": 494843,
+        "atten": 343986
+      },
+      "is_atten": 0,
+      "likes": 0,
+      "hates": 0,
+      "attribute": 0,
+      "liked": 0,
+      "hated": 0,
+      "showDetail": false,
+      "showReport": false,
+      "timeOut": null
+    },
+    {
+      "tag_id": 28784,
+      "tag_name": "编程",
+      "cover": "http:\u002F\u002Fi0.hdslb.com\u002Fbfs\u002Ftag\u002F4abd492394b43d415d79dce5055670e72737b088.jpg",
+      "head_cover": "",
+      "content": "编程是使用指令操控计算机的过程。操控计算机的指令统称编程语言，并分3大派：机械语言，汇编语言及高级语言。机器语言为低级的2进制码，仅在该机器语言的机器体系上适用，汇器是机械语言的基本翻译，但可读性\u002F兼容性还是很差。高级语言是所有非汇编\u002F机器语言的集合，一般可读性\u002F兼容性更高。高级语言分多类，如：面向过程(Procedure Oriented)，面向对象(Object Oriented),多多重编程范式(Multi-paradigm),函数式(functional)，静态\u002F动态(static\u002Fdynamic)等等。机器语言，汇编语言&amp;大部分高级语言都是图灵等价和图灵完备的，也是说机器语言，汇编语言&amp;大部分高级语言都可以模拟单带图灵机，并单带图灵机可以模拟说机器语言，汇编语言大部分高级语言。非图灵完备的计算机语言为DSL(领域特定语言),只适用特定的场合，如latex，yacc及lex。",
+      "short_content": "",
+      "type": 2,
+      "state": 0,
+      "ctime": 1436866637,
+      "count": {
+        "view": 0,
+        "use": 190128,
+        "atten": 180134
+      },
+      "is_atten": 0,
+      "likes": 0,
+      "hates": 0,
+      "attribute": 0,
+      "liked": 0,
+      "hated": 0,
+      "showDetail": false,
+      "showReport": false,
+      "timeOut": null
+    },
+    {
+      "tag_id": 3171273,
+      "tag_name": "WEB前端",
+      "cover": "",
+      "head_cover": "",
+      "content": "",
+      "short_content": "",
+      "type": 0,
+      "state": 0,
+      "ctime": 1486474492,
+      "count": {
+        "view": 0,
+        "use": 11956,
+        "atten": 839
+      },
+      "is_atten": 0,
+      "likes": 0,
+      "hates": 0,
+      "attribute": 0,
+      "liked": 0,
+      "hated": 0,
+      "showDetail": false,
+      "showReport": false,
+      "timeOut": null
+    }
+  ],
+  "comment": {
+    "count": 28,
+    "list": [
+      "如果对源 码感兴趣的胖友，可以访问~\n\nhttp:\u002F\u002Fwww.iocoder.cn?bilibili&vue",
+      "关注公众号【java干货】，回复【Node+TS+Koa+vue 商城全栈】关键字，领取资料（代码 + 课件）。",
+      "java学习交流群，添加308139472领取资料。请大佬传授经验\n备注：B+"
+    ]
+  },
+  "related": [
+    {
+      "aid": 80313586,
+      "cid": 137412077,
+      "bvid": "BV1vJ411s7dR",
+      "duration": 98764,
+      "pic": "http:\u002F\u002Fi0.hdslb.com\u002Fbfs\u002Farchive\u002F6d93c5708adc209ebb44b6c95c5249f93de7cf92.jpg",
+      "title": "Vue+Node前后端商城项目",
+      "owner": {
+        "name": "萧曵__",
+        "mid": 403916481
+      },
+      "stat": {
+        "danmaku": 6,
+        "view": 4092
+      }
+    },
+    {
+      "aid": 80509686,
+      "cid": 137777802,
+      "bvid": "BV1RJ411p7fU",
+      "duration": 319093,
+      "pic": "http:\u002F\u002Fi1.hdslb.com\u002Fbfs\u002Farchive\u002F379e4b188d643202117404c09c25d2127cabc0f2.jpg",
+      "title": "Node+TS+Koa+vue 商城全栈（前后端）开发",
+      "owner": {
+        "name": "前端厮",
+        "mid": 246639986
+      },
+      "stat": {
+        "danmaku": 11,
+        "view": 3337
+      }
+    },
+    {
+      "aid": 81591971,
+      "cid": 139508673,
+      "bvid": "BV1tJ411b7uE",
+      "duration": 325538,
+      "pic": "http:\u002F\u002Fi0.hdslb.com\u002Fbfs\u002Farchive\u002F2571d3f961fc93aabdc6645c1da38eafee26ce3c.jpg",
+      "title": "妙未Node+TS+Koa+vue 商城全栈（前后端）开发",
+      "owner": {
+        "name": "萧曵__",
+        "mid": 403916481
+      },
+      "stat": {
+        "danmaku": 0,
+        "view": 773
+      }
+    },
+    {
+      "aid": 97882616,
+      "cid": 167088541,
+      "bvid": "BV1YE411A746",
+      "duration": 136677,
+      "pic": "http:\u002F\u002Fi0.hdslb.com\u002Fbfs\u002Farchive\u002F8129d40ee2055a9b7f5fc748871cfadb2d9b40ab.jpg",
+      "title": "【2020】VUE+Element UI+Vue Element Admin+SSM+微信支付实现前后端完整电商闭环",
+      "owner": {
+        "name": "帅气的杭州千锋施老师",
+        "mid": 40498354
+      },
+      "stat": {
+        "danmaku": 31,
+        "view": 9900
+      }
+    },
+    {
+      "aid": 96238204,
+      "cid": 164285191,
+      "bvid": "BV1AE41137QL",
+      "duration": 16291,
+      "pic": "http:\u002F\u002Fi1.hdslb.com\u002Fbfs\u002Farchive\u002F19f5dc00043d79921d8271f0f22ff29630bcae2b.jpg",
+      "title": "迈向前端的未来 - TypeScript（手把手教你使用TS+Vue打造黑马便签应用）",
+      "owner": {
+        "name": "黑马程序员深圳中心",
+        "mid": 415938397
+      },
+      "stat": {
+        "danmaku": 72,
+        "view": 2873
+      }
+    },
+    {
+      "aid": 94889601,
+      "cid": 161921183,
+      "bvid": "BV1aE411u7Lj",
+      "duration": 73349,
+      "pic": "http:\u002F\u002Fi1.hdslb.com\u002Fbfs\u002Farchive\u002F4c1cb5e6dd669ce608e3c6f1f03f940fce399124.jpg",
+      "title": "【VueJS-NodeJS-MongoDB】商城项目实战",
+      "owner": {
+        "name": "极致Awake",
+        "mid": 86602341
+      },
+      "stat": {
+        "danmaku": 0,
+        "view": 2094
+      }
+    },
+    {
+      "aid": 73070499,
+      "cid": 124977213,
+      "bvid": "BV18E41127N4",
+      "duration": 15685,
+      "pic": "http:\u002F\u002Fi1.hdslb.com\u002Fbfs\u002Farchive\u002F42476b23ff91f61e7d560b9f746cafa8da8ee3bf.jpg",
+      "title": "第一章：(nestjs)NodeJs+VueJs全栈开发《全栈之巅》视频网站+app+小程序",
+      "owner": {
+        "name": "全栈之巅",
+        "mid": 341919508
+      },
+      "stat": {
+        "danmaku": 329,
+        "view": 32236
+      }
+    },
+    {
+      "aid": 77033948,
+      "cid": 131742552,
+      "bvid": "BV18J411R7J2",
+      "duration": 132739,
+      "pic": "http:\u002F\u002Fi0.hdslb.com\u002Fbfs\u002Farchive\u002Fb9091a398ec32b3560040355027a124ab10e0081.jpg",
+      "title": "nodejs(黑马36期)",
+      "owner": {
+        "name": "guonng",
+        "mid": 474226903
+      },
+      "stat": {
+        "danmaku": 7,
+        "view": 3704
+      }
+    },
+    {
+      "aid": 68368664,
+      "cid": 118488323,
+      "bvid": "BV1RJ41137dy",
+      "duration": 278368,
+      "pic": "http:\u002F\u002Fi1.hdslb.com\u002Fbfs\u002Farchive\u002Fed68ef84d95aa0b84ebce75d88ef1e97aed07d57.jpg",
+      "title": "【全栈】最新web全栈架构师",
+      "owner": {
+        "name": "bluskytee",
+        "mid": 21881211
+      },
+      "stat": {
+        "danmaku": 4,
+        "view": 4752
+      }
+    },
+    {
+      "aid": 71527835,
+      "cid": 123944204,
+      "bvid": "BV1dE411C7f5",
+      "duration": 7051,
+      "pic": "http:\u002F\u002Fi2.hdslb.com\u002Fbfs\u002Farchive\u002Fe9b0040a379a28af298249de7baab83629202335.jpg",
+      "title": "手把手教你打造Vue SSR",
+      "owner": {
+        "name": "PresByter2018",
+        "mid": 390758820
+      },
+      "stat": {
+        "danmaku": 3,
+        "view": 3031
+      }
+    },
+    {
+      "aid": 88358075,
+      "cid": 150935904,
+      "bvid": "BV1k7411G7nq",
+      "duration": 355270,
+      "pic": "http:\u002F\u002Fi2.hdslb.com\u002Fbfs\u002Farchive\u002Fa577b384acc830ab87d78aa4d28f18009d2f5b31.jpg",
+      "title": "啥也别说了，web全栈开发，快上车",
+      "owner": {
+        "name": "二流手艺人",
+        "mid": 433906265
+      },
+      "stat": {
+        "danmaku": 3,
+        "view": 7678
+      }
+    },
+    {
+      "aid": 82071887,
+      "cid": 140409165,
+      "bvid": "BV1SJ41157Y9",
+      "duration": 66885,
+      "pic": "http:\u002F\u002Fi2.hdslb.com\u002Fbfs\u002Farchive\u002Fc57468a5a6851db541f00c8967ea85c21101931c.jpg",
+      "title": "【千锋】2020Vue全套教程全开源（完整版）",
+      "owner": {
+        "name": "就是喜欢敲代码",
+        "mid": 480662924
+      },
+      "stat": {
+        "danmaku": 329,
+        "view": 31481
+      }
+    },
+    {
+      "aid": 91047619,
+      "cid": 155471053,
+      "bvid": "BV1tj411f72Q",
+      "duration": 20616,
+      "pic": "http:\u002F\u002Fi0.hdslb.com\u002Fbfs\u002Farchive\u002F3c96e6ec43f0c7b78b70ebfbdcefe4e0480638e1.jpg",
+      "title": "VUE商城项目实战课（2020最新上线）【金渡前端】",
+      "owner": {
+        "name": "金渡前端",
+        "mid": 470892364
+      },
+      "stat": {
+        "danmaku": 15,
+        "view": 3551
+      }
+    },
+    {
+      "aid": 88369894,
+      "cid": 150957329,
+      "bvid": "BV1i7411G7kW",
+      "duration": 221480,
+      "pic": "http:\u002F\u002Fi2.hdslb.com\u002Fbfs\u002Farchive\u002Fa4de6225c0b22fc4698bd52f4396cc384aa8ca54.jpg",
+      "title": "2020最新最全Node实战课程（含爬虫和web服务器开发）",
+      "owner": {
+        "name": "老陈打码",
+        "mid": 40018594
+      },
+      "stat": {
+        "danmaku": 421,
+        "view": 17836
+      }
+    },
+    {
+      "aid": 93876022,
+      "cid": 160245126,
+      "bvid": "BV1TE411W72T",
+      "duration": 25694,
+      "pic": "http:\u002F\u002Fi1.hdslb.com\u002Fbfs\u002Farchive\u002F2c881f8cf598428e727c6c07a9e98f5ddbf4f1b2.jpg",
+      "title": "VueCli3 全栈项目",
+      "owner": {
+        "name": "极致Awake",
+        "mid": 86602341
+      },
+      "stat": {
+        "danmaku": 0,
+        "view": 3438
+      }
+    },
+    {
+      "aid": 79086481,
+      "cid": 136142578,
+      "bvid": "BV1hJ411C7kM",
+      "duration": 4394,
+      "pic": "http:\u002F\u002Fi0.hdslb.com\u002Fbfs\u002Farchive\u002F38cefd05cb2d6faf940673f406f899fd2ae52f86.jpg",
+      "title": "全栈前后端联调（mongodb+node.js+express+vue）",
+      "owner": {
+        "name": "己所不欲2020",
+        "mid": 16693893
+      },
+      "stat": {
+        "danmaku": 2,
+        "view": 2286
+      }
+    },
+    {
+      "aid": 79002565,
+      "cid": 135194913,
+      "bvid": "BV1PJ411C7hw",
+      "duration": 104226,
+      "pic": "http:\u002F\u002Fi2.hdslb.com\u002Fbfs\u002Farchive\u002F1f9871b2b1ce50c1c3e63a860f10f9ef14207c17.jpg",
+      "title": "2019-12-\u003E全套前端，骚年，努力吧！",
+      "owner": {
+        "name": "ITWANGYANG",
+        "mid": 364798139
+      },
+      "stat": {
+        "danmaku": 17,
+        "view": 11303
+      }
+    },
+    {
+      "aid": 92033315,
+      "cid": 157140268,
+      "bvid": "BV1a7411P7hY",
+      "duration": 187527,
+      "pic": "http:\u002F\u002Fi2.hdslb.com\u002Fbfs\u002Farchive\u002F2a6938ed432b4b5226587baf1e22c1997bf946af.jpg",
+      "title": "2020-vue实战-入门到大神-web前端-前端全栈工程师-vue全家桶-vue-cli4.x",
+      "owner": {
+        "name": "ITWANGYANG",
+        "mid": 364798139
+      },
+      "stat": {
+        "danmaku": 12,
+        "view": 3846
+      }
+    },
+    {
+      "aid": 98939716,
+      "cid": 168876149,
+      "bvid": "BV1t741127Z3",
+      "duration": 46771,
+      "pic": "http:\u002F\u002Fi0.hdslb.com\u002Fbfs\u002Farchive\u002Fac82c12897590aa56c5aabaffc643025f3c0e7ef.jpg",
+      "title": "Vue Element + Node.js 开发实战",
+      "owner": {
+        "name": "java干货",
+        "mid": 244056686
+      },
+      "stat": {
+        "danmaku": 1,
+        "view": 1703
+      }
+    },
+    {
+      "aid": 68905824,
+      "cid": 119417473,
+      "bvid": "BV1MJ411u7MX",
+      "duration": 3134686,
+      "pic": "http:\u002F\u002Fi2.hdslb.com\u002Fbfs\u002Farchive\u002Fdca0d9dba92c11c7b6c172d153cccfbfb0bd1b02.jpg",
+      "title": "JAVA全栈开发",
+      "owner": {
+        "name": "三秋叶123",
+        "mid": 430246652
+      },
+      "stat": {
+        "danmaku": 4,
+        "view": 4446
+      }
+    },
+    {
+      "aid": 88960746,
+      "cid": 151956484,
+      "bvid": "BV1L7411g7wc",
+      "duration": 160822,
+      "pic": "http:\u002F\u002Fi2.hdslb.com\u002Fbfs\u002Farchive\u002F1ca9dcf40b92a24e0a55718b3f149e4515d220c2.jpg",
+      "title": "2020-web前端工程师 -全栈课程-JavaScript-es6,7,8-vue基础-vue-实战-node教程",
+      "owner": {
+        "name": "ITWANGYANG",
+        "mid": 364798139
+      },
+      "stat": {
+        "danmaku": 0,
+        "view": 3707
+      }
+    },
+    {
+      "aid": 51931842,
+      "cid": 90916299,
+      "bvid": "BV1A4411Y7fi",
+      "duration": 19907,
+      "pic": "http:\u002F\u002Fi1.hdslb.com\u002Fbfs\u002Farchive\u002F42476b23ff91f61e7d560b9f746cafa8da8ee3bf.jpg",
+      "title": "[第一章 + 第二章] NodeJs + VueJs (Express + ElementUI) 全栈开发王者荣耀手机端官网和管理后台",
+      "owner": {
+        "name": "全栈之巅",
+        "mid": 341919508
+      },
+      "stat": {
+        "danmaku": 1697,
+        "view": 75304
+      }
+    },
+    {
+      "aid": 83216711,
+      "cid": 142361851,
+      "bvid": "BV16J411n7z9",
+      "duration": 200312,
+      "pic": "http:\u002F\u002Fi1.hdslb.com\u002Fbfs\u002Farchive\u002F326872ed515047618c955605b9b3c1348003da89.jpg",
+      "title": "【19年黑马】青橙商城完整版 后台+前台+青橙秒杀",
+      "owner": {
+        "name": "卡洛小豆",
+        "mid": 25055547
+      },
+      "stat": {
+        "danmaku": 53,
+        "view": 22701
+      }
+    },
+    {
+      "aid": 84284717,
+      "cid": 144170176,
+      "bvid": "BV1D7411v7xM",
+      "duration": 59890,
+      "pic": "http:\u002F\u002Fi1.hdslb.com\u002Fbfs\u002Farchive\u002F584a58588c408bd20acb2eef31bb1ec8cfd3e96f.jpg",
+      "title": "nodejs开发博客",
+      "owner": {
+        "name": "楓楪夢殇",
+        "mid": 15144736
+      },
+      "stat": {
+        "danmaku": 16,
+        "view": 5154
+      }
+    },
+    {
+      "aid": 50341412,
+      "cid": 88133035,
+      "bvid": "BV1t441187pL",
+      "duration": 3693,
+      "pic": "http:\u002F\u002Fi0.hdslb.com\u002Fbfs\u002Farchive\u002F611396b7e4a62e810f3d645169b29fd704920a5d.jpg",
+      "title": "Element UI + NodeJs(Express)全栈开发后台管理界面",
+      "owner": {
+        "name": "全栈之巅",
+        "mid": 341919508
+      },
+      "stat": {
+        "danmaku": 197,
+        "view": 30469
+      }
+    },
+    {
+      "aid": 90386403,
+      "cid": 154335107,
+      "bvid": "BV177411P7Ej",
+      "duration": 45887,
+      "pic": "http:\u002F\u002Fi1.hdslb.com\u002Fbfs\u002Farchive\u002F9783b43541ce18597921151eded89ea266b1cb20.jpg",
+      "title": "Koa2 实现电影公众号前后端开发",
+      "owner": {
+        "name": "小破站学习区",
+        "mid": 23676249
+      },
+      "stat": {
+        "danmaku": 1,
+        "view": 638
+      }
+    }
+  ]
+}

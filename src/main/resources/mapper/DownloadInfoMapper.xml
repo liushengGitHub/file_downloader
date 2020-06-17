@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//ibatis.apache.org//DTD Mapper 3.0//EN"
+        "http://ibatis.apache.org/dtd/ibatis-3-mapper.dtd">
+
+<mapper namespace="liusheng.url.main.mapper.DownloadInfoMapper">
+
+    <resultMap id="Basic_Map" type="liusheng.url.pipeline.DownloadInfoList">
+        <!--resultMap id不能主动映射-->
+        <id column="id" property="id"/>
+        <collection property="downloadInfos" ofType="liusheng.url.pipeline.DownloadInfoList"
+                    column="id" select="selectDownloadInfosByParentId"></collection>
+    </resultMap>
+
+
+    <select id="selectDownloadInfosByParentId" resultType="liusheng.url.pipeline.DownloadInfoList">
+        select  * from download_info where parent_id = #{id}
+    </select>
+
+    <insert id="insertDownloadInfo" useGeneratedKeys="true" keyProperty="id">
+
+        insert into download_info
+        <trim prefix="(" suffix=")" prefixOverrides=",">
+            <if test="source != null and source != ''">
+                , source
+            </if>
+            <if test="target != null and target != ''">
+                ,target
+
+            </if>
+            <if test="current != null and current != ''">
+                ,current
+            </if>
+            <if test="total != null and total != ''">
+                ,total
+            </if>
+            <if test="parentId != null and parentId != ''">
+                ,parent_id
+            </if>
+            <if test="type != null and type != ''">
+                ,type
+            </if>
+            <if test="state != null and state != ''">
+                ,state
+            </if>
+        </trim>
+        values
+        <trim prefix="(" suffix=")" prefixOverrides=",">
+            <if test="source != null and source != ''">
+                , #{source}
+            </if>
+            <if test="target != null and target != ''">
+                ,#{target}
+
+            </if>
+            <if test="current != null and current != ''">
+                , #{current}
+            </if>
+            <if test="total != null and total != ''">
+                , #{total}
+            </if>
+            <if test="parentId != null and parentId != ''">
+                , #{parentId}
+            </if>
+            <if test="type != null and type != ''">
+                ,#{type}
+            </if>
+            <if test="state != null and state != ''">
+                ,#{state}
+            </if>
+        </trim>
+
+    </insert>
+    <update id="updateDownloadInfo">
+        update download_info
+        <set>
+            <if test="source != null and source != ''">
+                , source = #{source}
+            </if>
+            <if test="target != null and target != ''">
+                ,target = #{target}
+
+            </if>
+            <if test="current != null and current != ''">
+                ,current = #{current}
+            </if>
+            <if test="total != null and total != ''">
+                ,total = #{total}
+            </if>
+            <if test="parentId != null and parentId != ''">
+                ,parent_id = #{parentId}
+            </if>
+            <if test="type != null and type != ''">
+                ,type = #{type}
+            </if>
+            <if test="state != null and state != ''">
+                ,state = #{state}
+            </if>
+        </set>
+        <where>
+            id = #{id}
+        </where>
+
+    </update>
+
+    <select id="selectDownloadInfoById" resultType="liusheng.url.pipeline.DownloadInfoList">
+        select  * from  download_info where id = #{id}
+    </select>
+
+    <select id="selectDownloadInfosByParentIdIsNull" resultMap="Basic_Map">
+        select  * from  download_info where parent_id is null
+    </select>
+</mapper>
